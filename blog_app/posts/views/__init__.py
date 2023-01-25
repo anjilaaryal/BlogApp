@@ -1,0 +1,3 @@
+from posts.views.create_post_view import CreatePostView
+from posts.views.get_update_post_view import GetUpdatePostView
+from posts.views.create_comment_view import CreateCommentView

@@ -1,0 +1,2 @@
+from posts.serializer.add_post_serializer import AddPostRequest
+from posts.serializer.add_comment_serializer import AddCommentRequest
